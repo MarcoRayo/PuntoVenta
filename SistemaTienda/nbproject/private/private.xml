@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/Vista/VentasVista.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>678</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/SistemaTienda/src/Modelo/CategoriaDao.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/SistemaTienda/src/Vista/CategoriasVista.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/SistemaTienda/src/Vista/ImportesVista.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/SistemaTienda/src/Modelo/VentasDao.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/SistemaTienda/src/Modelo/BD/Conexion.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/SistemaTienda/src/Vista/VentasVista.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/SistemaTienda/src/Vista/ProveedoresVista.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/SistemaTienda/src/Modelo/ProductoDao.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/SistemaTienda/src/Vista/InicioVista.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/SistemaTienda/src/Vista/ProductosVista.java</file>
+        </group>
+    </open-files>
+</project-private>
